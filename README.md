@@ -6,7 +6,7 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 
 #### _Jungle view_
 
-!["Jungle view"](./docs/final_products.gif)
+!["Jungle view"](https://github.com/nhussaini/jungle-rails/blob/master/docs/final_product.gif?raw=true)
 
 ## Additional Steps for Apple M1 Machines
 
